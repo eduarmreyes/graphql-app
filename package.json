@@ -1,0 +1,23 @@
+{
+  "name": "graphql-app",
+  "version": "1.0.0",
+  "description": "Getting started with Redux and GraphQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduarmreyes/graphql-app.git"
+  },
+  "keywords": [
+    "graphql",
+    "redux"
+  ],
+  "author": "eduarmreyes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduarmreyes/graphql-app/issues"
+  },
+  "homepage": "https://github.com/eduarmreyes/graphql-app"
+}
